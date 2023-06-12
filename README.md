@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/eA2a3VS.png" alt="Logo" width="200px">
+</p>
+
 # Solidity-Truffle-Web3JS
 
 Solidity-Truffle-Web3JS is a decentralized crowdfunding platform built on the Ethereum blockchain. It allows users to create and fund projects, fostering collaboration and community support.
@@ -17,4 +21,8 @@ Solidity-Truffle-Web3JS is a decentralized crowdfunding platform built on the Et
 - Truffle framework should be installed globally.
 
 
-![Solidity-Truffle-Web3JS](https://example.com/path/to/icon.png)
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/younes-shimi/)](https://www.linkedin.com/in/younes-shimi/)
+
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:ounesshimi@gmail.com)](mailto:ounesshimi@gmail.com)

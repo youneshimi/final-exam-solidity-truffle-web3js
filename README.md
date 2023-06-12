@@ -15,3 +15,6 @@ Solidity-Truffle-Web3JS is a decentralized crowdfunding platform built on the Et
 
 - Node.js and npm should be installed on your system.
 - Truffle framework should be installed globally.
+
+
+![Solidity-Truffle-Web3JS](https://example.com/path/to/icon.png)
